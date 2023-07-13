@@ -14,8 +14,8 @@ public class NumberGuessingGame {
         Scanner input = new Scanner(System.in);
         System.out.println("--------------------");
         System.out.println("Welcome to the number game");
-        System.out.println("1) Play the Game");
-        System.out.println("2) Score Board");
+        System.out.println("1) Lets Start the Game");
+        System.out.println("2) Check the score Board");
         System.out.println("3) Exit the game");
         System.out.println("--------------------");
         try {
